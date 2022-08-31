@@ -1,25 +1,5 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DDA Product"
-    id="id-0a5246cf08eac45e009e72f7b22b7021"
-    purpose="De GEMeentelijk Model Architectuur (GEMMA) bevat een blauwdruk van de gemeente en haar informatievoorziening. De GEMMA kan worden gebruikt als basis voor de projectmodellen"
-    version="4.9.0">
-  <properties
-      key="Publiceren"
-      value="Softwarecatalogus en GEMMA Online en redactie"/>
-  <properties
-      key="Architectuurtool"
-      value="Archi"/>
-  <properties
-      key="Object ID"
-      value="2b2b88ba-8efe-46d3-8b40-47af290bc418"/>
-  <properties
-      key="Versie"
-      value="0.9"/>
-  <properties
-      key="Type model"
-      value="Kernmodel"/>
-  <properties
-      key="GEMMA status"
-      value="In gebruik"/>
-</archimate:ArchimateModel>
+    name="(new model)"
+    id="id-c9fda3ce3d754f48b207ad87eae7de0f"
+    version="4.9.0"/>
