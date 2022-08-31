@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAG Bevragen"
+    id="id-ad84a8fd8e90c5d8d848698b9ef860cf"
+    documentation="BAG Bevragen biedt een koppelvlak waarop u uw software kunt aansluiten:  * directe toegang tot alle gegevens uit de LV BAG; * gegevens op basis van levenscyclus of peildatum.">
+  <properties
+      key="Object ID"
+      value="b51cc951-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

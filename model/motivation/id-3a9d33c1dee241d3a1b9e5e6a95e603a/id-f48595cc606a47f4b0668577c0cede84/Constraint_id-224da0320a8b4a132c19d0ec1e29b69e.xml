@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIKB0101"
+    id="id-224da0320a8b4a132c19d0ec1e29b69e"
+    documentation="SIKB 0101 (Stichting Infrastructuur Kwaliteitsborging Bodembeheer): Uitwisselen kwaliteitsgegevens van de bodem, inclusief geografische en administratieve gegevens.">
+  <properties
+      key="Object ID"
+      value="bc98fc31-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

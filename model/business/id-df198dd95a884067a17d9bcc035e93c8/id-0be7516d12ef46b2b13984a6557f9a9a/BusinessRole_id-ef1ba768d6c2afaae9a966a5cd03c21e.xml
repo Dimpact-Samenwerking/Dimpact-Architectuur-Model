@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseur"
+    id="id-ef1ba768d6c2afaae9a966a5cd03c21e">
+  <properties
+      key="Object ID"
+      value="f3219a6a-532f-482d-897c-dafe0dc70bb0"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma model"/>
+</archimate:BusinessRole>

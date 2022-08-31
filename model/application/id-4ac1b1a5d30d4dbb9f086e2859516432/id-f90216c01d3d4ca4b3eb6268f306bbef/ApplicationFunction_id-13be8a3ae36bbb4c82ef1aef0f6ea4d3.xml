@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensbescherming en onderzoek"
+    id="id-13be8a3ae36bbb4c82ef1aef0f6ea4d3"
+    documentation="Funtionaliteit voor gegevensbescherming en onderzoek.">
+  <properties
+      key="Object ID"
+      value="8e89a47b-3f82-484a-95ba-a747c597d6f8"/>
+</archimate:ApplicationFunction>

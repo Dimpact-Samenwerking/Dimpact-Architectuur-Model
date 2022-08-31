@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opvragen GEMMA referentiearchitectuur"
+    id="id-3ad09e3e6dcb8030b8a7fb070b684150">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Object ID"
+      value="8c2c5334-fb09-4b99-970a-53d672f9c43d"/>
+</archimate:ApplicationService>

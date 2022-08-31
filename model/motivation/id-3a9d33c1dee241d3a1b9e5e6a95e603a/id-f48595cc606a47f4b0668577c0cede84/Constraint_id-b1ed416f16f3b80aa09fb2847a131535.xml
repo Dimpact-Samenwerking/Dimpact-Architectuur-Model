@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TMLO"
+    id="id-b1ed416f16f3b80aa09fb2847a131535"
+    documentation="Toepassingsprofiel Metadatering Lokale Overheden. (Informatiemodel).">
+  <properties
+      key="Object ID"
+      value="274a0801-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

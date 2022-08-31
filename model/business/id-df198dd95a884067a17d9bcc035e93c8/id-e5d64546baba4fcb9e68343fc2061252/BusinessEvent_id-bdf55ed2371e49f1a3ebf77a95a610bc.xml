@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek plaatsing webcontent"
+    id="id-bdf55ed2371e49f1a3ebf77a95a610bc">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessEvent>

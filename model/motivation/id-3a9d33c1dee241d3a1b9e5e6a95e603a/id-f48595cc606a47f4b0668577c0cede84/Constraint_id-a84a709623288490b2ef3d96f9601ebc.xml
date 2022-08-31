@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODF"
+    id="id-a84a709623288490b2ef3d96f9601ebc"
+    documentation="ODF (Open Document Format) :Uitwisseling van reviseerbare documenten;">
+  <properties
+      key="Object ID"
+      value="bbd0f141-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GBA koppelvlak"
+    id="id-670e500f8f1c769b19c079573b9ecc3e"
+    documentation="Het koppelvlak met GBA-V is gedefinieerd in het LO GBA.">
+  <properties
+      key="Object ID"
+      value="b8819f31-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

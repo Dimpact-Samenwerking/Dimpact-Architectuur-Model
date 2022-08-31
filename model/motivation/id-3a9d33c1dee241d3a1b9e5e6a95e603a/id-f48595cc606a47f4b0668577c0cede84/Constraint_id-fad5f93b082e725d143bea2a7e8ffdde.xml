@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnOverheid Berichtenbox koppelvlak"
+    id="id-fad5f93b082e725d143bea2a7e8ffdde"
+    documentation="Koppelvlakspecificatie voor het aansluiting op de Berichtenbox van MijnOverheid.">
+  <properties
+      key="Object ID"
+      value="bb9f0bd1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,17 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4325ddf2017a94033e69d2229b973a3e">
+  <properties
+      key="Object ID"
+      value="b1c8cdf6-f39e-4f33-8d2e-b5f242fb3c26"/>
+  <properties
+      key="Toelichting"
+      value="Deze relatie is afgeleid van de relatie van [[GEMMA2/0.9/id-7a855337-fcbb-11e5-11ba-005056a85f9c]] met [[GEMMA2/0.9/id-8c2cf498-380a-4fc1-b8ce-becf802d6371]]."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ebf8487c881dfabd05bd768a3cf3e3fa.xml#id-ebf8487c881dfabd05bd768a3cf3e3fa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40805a92105dd327c532ebf2eca147c5.xml#id-40805a92105dd327c532ebf2eca147c5"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMBRO Bodem en Ondergrond"
+    id="id-c70b7ad0226fd5ffa101daba7e55d84c"
+    documentation="IMBRO zorgt voor een duurzame ontsluiting van kennis en informatie over onze bodem en ondergrond. IMBRO is gebaseerd op het Basismodel Geo-informatie (NEN3610).">
+  <properties
+      key="Object ID"
+      value="b9e1f281-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

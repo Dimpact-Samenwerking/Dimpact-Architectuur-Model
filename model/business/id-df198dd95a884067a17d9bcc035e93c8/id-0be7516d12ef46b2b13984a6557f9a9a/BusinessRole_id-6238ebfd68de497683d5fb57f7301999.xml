@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheerder applicaties"
+    id="id-6238ebfd68de497683d5fb57f7301999">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessRole>

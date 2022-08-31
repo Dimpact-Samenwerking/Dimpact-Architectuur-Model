@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DKIM"
+    id="id-5d172e1b9e4bca8621188fcbb9cfb658"
+    documentation="DomainKeys Identified Mail Signatures (DKIM) koppelt een e-mail aan een domeinnaam met behulp van een digitale handtekening">
+  <properties
+      key="Object ID"
+      value="c458b120-7957-11e4-67ab-0050568a6153"/>
+</archimate:Constraint>

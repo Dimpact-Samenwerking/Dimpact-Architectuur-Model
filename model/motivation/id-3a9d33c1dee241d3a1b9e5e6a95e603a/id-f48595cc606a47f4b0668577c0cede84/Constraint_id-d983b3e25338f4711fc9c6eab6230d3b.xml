@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IFC"
+    id="id-d983b3e25338f4711fc9c6eab6230d3b"
+    documentation="IFC (Industry Foundation Classes) is een standaard voor uitwisseling in het kader van bouwwerkinformatiemodellen.">
+  <properties
+      key="Object ID"
+      value="b94e3e01-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

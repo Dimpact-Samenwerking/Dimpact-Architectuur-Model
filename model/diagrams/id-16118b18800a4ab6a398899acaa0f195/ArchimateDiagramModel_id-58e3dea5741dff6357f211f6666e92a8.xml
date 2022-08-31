@@ -1,0 +1,72 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceren verzamelcomponent"
+    id="id-58e3dea5741dff6357f211f6666e92a8"
+    documentation="Wordt gebruikt in de Softwarecatalogus, maar staat niet op een GEMMA view">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-940905cb225696b4ce3936f49b193efc"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#daeef3"
+      type="1">
+    <bounds
+        x="80"
+        y="273"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6f1ef67ba058bd688bc0ad8747bafc91.xml#id-6f1ef67ba058bd688bc0ad8747bafc91"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-37b563ed28789b4d582089e5de014a42"
+      font="1|arial|12.0|0|COCOA|1|"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffc8"
+      content="Deze view bevat alleen de verzamelcomponent.  In de Softwarecatalogus wordt de verzamelcomponent gebruikt als tijdelijke oplossing om een pakket toch op te kunnen voeren.  De component wordt niet op de GEMMA views getoond.">
+    <bounds
+        x="640"
+        y="20"
+        width="587"
+        height="227"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8acab05c0f8604c39532d99e34c7473e"
+      font="1|arial|12.0|0|COCOA|1|"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffc8"
+      content="Objecten die niet op een view staan, worden bij het importeren door ArchiMedes uitgefilterd.  Deze view zorgt ervoor dat de verzamelcomponent op GEMMA online en in de Softwarecatalogus gepubliceerd worden">
+    <bounds
+        x="33"
+        y="20"
+        width="593"
+        height="227"/>
+  </children>
+  <properties
+      key="Architectuurlaag"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="689b0bcb-c56c-4133-b81b-973035614180"/>
+  <properties
+      key="Detailniveau"
+      value="Detailview"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Viewtype"
+      value="Contentfilter"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
+  <properties
+      key="Domein"
+      value="Geen"/>
+</archimate:ArchimateDiagramModel>

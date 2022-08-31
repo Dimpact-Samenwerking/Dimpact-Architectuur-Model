@@ -1,0 +1,18 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verplicht"
+    id="id-f343bef1c9207a2bd8da4ebf34337ba4">
+  <properties
+      key="Verbindingsrol"
+      value="Verplicht"/>
+  <properties
+      key="Object ID"
+      value="d87f2a7d-c510-405e-bdab-705875db5dd7"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d6e8fb742094725da9d407a8e13ce696.xml#id-d6e8fb742094725da9d407a8e13ce696"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-128380eca080bb7cede0a92a31f5cd94.xml#id-128380eca080bb7cede0a92a31f5cd94"/>
+</archimate:RealizationRelationship>

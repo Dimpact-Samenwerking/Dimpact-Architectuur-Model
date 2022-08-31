@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digikoppeling WUS"
+    id="id-bdce7fa0a9b682e23135e72d55f27d30"
+    documentation="Digikoppeling is een door het College Standaardisatie verplicht gestelde set standaarden voor communicatie tussen informatiesystemen van verschillende overheidsorganisaties. Digikoppeling maakt berichtenuitwisseling mogelijk op basis van de ebXML/ebMS en WUS-families van standaarden, inclusief de daarbij behorende verwante standaarden.">
+  <properties
+      key="Object ID"
+      value="b7f516a1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

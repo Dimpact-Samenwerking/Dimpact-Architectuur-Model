@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tonen en zoeken van informatieobjecten"
+    id="id-6bca6a47375bd50a66ce16093addf48b"
+    documentation="Functionaliteit voor het zoeken van informatieobjecten via metagegevens.">
+  <properties
+      key="Object ID"
+      value="36bb333f-70f3-11e5-1099-005056a83192"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:ApplicationFunction>

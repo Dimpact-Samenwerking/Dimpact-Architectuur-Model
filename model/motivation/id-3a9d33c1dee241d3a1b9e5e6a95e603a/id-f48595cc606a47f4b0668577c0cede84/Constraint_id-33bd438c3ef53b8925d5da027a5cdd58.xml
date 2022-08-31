@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenscatalogus BGT"
+    id="id-33bd438c3ef53b8925d5da027a5cdd58"
+    documentation="De gegevenscatalogus BGT is wettelijk verplicht en beschrijft de topografische objecten die bronhouders in ieder geval moeten leveren om tot een landsdekkend bestand te komen.">
+  <properties
+      key="Object ID"
+      value="14e9d0a1-1a58-11e5-1099-005056a83192"/>
+</archimate:Constraint>

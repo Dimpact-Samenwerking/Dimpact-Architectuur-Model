@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actor - Extern (Burger-Bedrijf-...)"
+    id="id-51e5dda3698147418fbafefd6864587e">
+  <properties
+      key="Actor type"
+      value="Extern"/>
+</archimate:BusinessActor>

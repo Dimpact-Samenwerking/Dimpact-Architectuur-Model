@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teamleider"
+    id="id-bad107daf268a5077029955ae92d43af">
+  <properties
+      key="Object ID"
+      value="6e97eac9-5f3d-4be2-b1ca-ea2822b27699"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

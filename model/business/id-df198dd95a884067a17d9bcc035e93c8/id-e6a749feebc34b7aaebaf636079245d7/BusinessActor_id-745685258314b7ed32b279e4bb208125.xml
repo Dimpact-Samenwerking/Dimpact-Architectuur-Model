@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensarchitect"
+    id="id-745685258314b7ed32b279e4bb208125">
+  <properties
+      key="Object ID"
+      value="d17bfd8a-2c42-4c63-9b29-7c8100a6f013"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessActor>

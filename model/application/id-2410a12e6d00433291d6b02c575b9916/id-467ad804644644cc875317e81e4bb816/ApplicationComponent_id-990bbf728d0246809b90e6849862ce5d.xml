@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEM Chatbot"
+    id="id-990bbf728d0246809b90e6849862ce5d">
+  <properties
+      key="Object - Model Laag"
+      value="4 - Applicatie proces"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+  <properties
+      key="Component - Bron"
+      value="Gemeente Tilburg"/>
+  <properties
+      key="Component - Leverancier"
+      value="Maykin"/>
+  <properties
+      key="Component - Type"
+      value="2. Technische oplossing"/>
+  <properties
+      key="Status - PLC"
+      value="1. Onderzoek"/>
+  <properties
+      key="Status - Funnel"
+      value="2. Verkenning"/>
+</archimate:ApplicationComponent>

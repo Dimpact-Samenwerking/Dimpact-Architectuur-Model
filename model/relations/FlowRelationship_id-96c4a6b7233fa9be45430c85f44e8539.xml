@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="uitzetten lijnen op het gebied van gegevensmanagement"
+    id="id-96c4a6b7233fa9be45430c85f44e8539">
+  <properties
+      key="Object ID"
+      value="f9fdadbe-f5bd-4ca7-a171-cfae6d65f6fc"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-021bc9d1fa485bcf39352c03104e58f8.xml#id-021bc9d1fa485bcf39352c03104e58f8"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bb56ccdc48f269846c337e2f5316a494.xml#id-bb56ccdc48f269846c337e2f5316a494"/>
+</archimate:FlowRelationship>

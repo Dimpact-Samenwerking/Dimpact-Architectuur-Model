@@ -1,0 +1,18 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbevolen"
+    id="id-f03ebc1a5f83c38f3aa54fa68c7855e1">
+  <properties
+      key="Verbindingsrol"
+      value="Aanbevolen"/>
+  <properties
+      key="Object ID"
+      value="d2fcb622-c490-425d-8baa-28da255d53ae"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd525679f473e889d25f6a51ae57db09.xml#id-dd525679f473e889d25f6a51ae57db09"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-2c93e6d8fde561c41b17a4e90f2cd694.xml#id-2c93e6d8fde561c41b17a4e90f2cd694"/>
+</archimate:RealizationRelationship>

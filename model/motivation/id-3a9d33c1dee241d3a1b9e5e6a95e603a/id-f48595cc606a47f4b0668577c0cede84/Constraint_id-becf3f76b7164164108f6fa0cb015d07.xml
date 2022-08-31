@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMate File Format"
+    id="id-becf3f76b7164164108f6fa0cb015d07"
+    documentation="Met het ArchiMate bestanduitwisselformaat kunnen architectuurtools ArchiMate architectuurmodellen met elkaar uitwisselen. Deze standaard wordt ook aangeduid als ArchiMate Model Exchange File Format (AMEFF)">
+  <properties
+      key="Object ID"
+      value="a474cd51-1913-11e6-11ba-005056a85f9c"/>
+</archimate:Constraint>

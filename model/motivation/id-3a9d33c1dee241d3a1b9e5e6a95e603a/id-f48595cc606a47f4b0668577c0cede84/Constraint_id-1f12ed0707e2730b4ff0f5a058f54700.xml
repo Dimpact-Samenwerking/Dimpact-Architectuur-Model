@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPF"
+    id="id-1f12ed0707e2730b4ff0f5a058f54700"
+    documentation="Sender Policy Framework (SPF) is een standaard voor het veiliger maken van email verkeer door het tegengaan van spam en phisingmail door misbruik van domeinnamen bij e-mail te voorkomen.">
+  <properties
+      key="Object ID"
+      value="9b60bd04-9db7-4e34-956a-e5b4acfb36e6"/>
+</archimate:Constraint>

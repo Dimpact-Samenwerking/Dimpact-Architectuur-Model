@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="0"
+    id="id-eeafd1390231a3a001ed9fc1731cce2d"
+    documentation="De gemeente start met het ophalen van de meest recente versie van de regeling bij de LVBB. &#xA;Let op: deze service is nog in onderzoek (juni 2020)">
+  <properties
+      key="Object ID"
+      value="e09429d1-3a97-4f1d-ba10-e6bcdb918ce3"/>
+  <properties
+      key="Toelichting"
+      value="00 De gemeente start met het ophalen van de meest recente versie van de regeling bij de LVBB. Let op: deze service is nog in onderzoek (juni 2020)"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-915a9646a1a66a8b37174ca7d6ca18f1.xml#id-915a9646a1a66a8b37174ca7d6ca18f1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60b3687544dc8c31cd8d3a65a51baa49.xml#id-60b3687544dc8c31cd8d3a65a51baa49"/>
+</archimate:FlowRelationship>

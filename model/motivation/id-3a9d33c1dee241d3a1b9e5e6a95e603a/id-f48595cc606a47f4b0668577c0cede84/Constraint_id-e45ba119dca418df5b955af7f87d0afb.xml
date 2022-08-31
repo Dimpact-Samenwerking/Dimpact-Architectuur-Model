@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimplerInvoicing-UBL (e-Factureren)"
+    id="id-e45ba119dca418df5b955af7f87d0afb"
+    documentation="De SI-UBL e-factuurstandaard zoals belangrijke (internationale) marktpartijen van e-factuuroplossingen die hebben afgesproken in de Stichting Simplerinvoicing">
+  <properties
+      key="Object ID"
+      value="e0787641-9e88-11e5-11ba-005056a85f9c"/>
+</archimate:Constraint>

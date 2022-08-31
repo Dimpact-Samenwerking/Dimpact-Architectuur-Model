@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiator"
+    id="id-b81cf261c57f0122eb73fe9e01a5b7e4">
+  <properties
+      key="Object ID"
+      value="56eb4a8d-8332-4c8a-b413-1698f97f4704"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

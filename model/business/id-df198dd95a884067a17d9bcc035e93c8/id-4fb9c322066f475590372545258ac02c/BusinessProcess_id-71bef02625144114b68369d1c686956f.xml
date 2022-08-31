@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiveren webcontent"
+    id="id-71bef02625144114b68369d1c686956f">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessProcess>

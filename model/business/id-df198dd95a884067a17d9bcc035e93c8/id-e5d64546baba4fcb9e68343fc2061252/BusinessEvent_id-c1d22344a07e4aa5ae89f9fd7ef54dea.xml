@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek archivering webcontent"
+    id="id-c1d22344a07e4aa5ae89f9fd7ef54dea">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessEvent>

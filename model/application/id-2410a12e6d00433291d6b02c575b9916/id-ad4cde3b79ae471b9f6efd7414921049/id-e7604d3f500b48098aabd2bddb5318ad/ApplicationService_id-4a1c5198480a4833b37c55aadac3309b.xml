@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API - CMS"
+    id="id-4a1c5198480a4833b37c55aadac3309b">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact"/>
+</archimate:ApplicationService>

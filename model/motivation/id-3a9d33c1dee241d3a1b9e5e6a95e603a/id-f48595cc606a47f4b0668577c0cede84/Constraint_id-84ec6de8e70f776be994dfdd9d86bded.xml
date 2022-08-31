@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UBL-OHNL (e-Factureren)"
+    id="id-84ec6de8e70f776be994dfdd9d86bded"
+    documentation="De UBL-OHNL standaard beschrijft de berichten voor inkopen van alle producten en diensten, met uitzondering van inhuur personeel.">
+  <properties
+      key="Object ID"
+      value="abfe27d1-6854-11e5-1099-005056a83192"/>
+</archimate:Constraint>

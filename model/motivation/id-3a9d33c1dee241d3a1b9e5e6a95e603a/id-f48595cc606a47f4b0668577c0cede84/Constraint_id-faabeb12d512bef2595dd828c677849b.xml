@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkende Catalogi"
+    id="id-faabeb12d512bef2595dd828c677849b"
+    documentation="De Standaard voor Samenwerkende Catalogi is een set afspraken over het uitwisselen van informatie over producten en diensten van overheidsorganisaties.">
+  <properties
+      key="Object ID"
+      value="2717fb81-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

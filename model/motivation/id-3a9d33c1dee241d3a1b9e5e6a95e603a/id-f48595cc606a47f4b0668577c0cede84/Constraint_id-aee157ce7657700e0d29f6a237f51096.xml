@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SGR"
+    id="id-aee157ce7657700e0d29f6a237f51096"
+    documentation="Gegevensstandaard voor het werk en inkomen (SUWI) domein. SGR definieert structuur in de vorm van definities, formaten en mogelijke waarden van het gegevens voor de keten Werk en Inkomen. De standaard is vastgelegd in het Suwi-Gegevensregister (SGR).">
+  <properties
+      key="Object ID"
+      value="bc8f5f41-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

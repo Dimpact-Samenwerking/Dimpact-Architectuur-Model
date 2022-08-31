@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STARTTLS en DANE"
+    id="id-a43bd7422525baa53cc3bacec15abd8c"
+    documentation="STARTTLS in combinatie met DANE gaan het afluisteren of manipuleren van mailverkeer tegen.">
+  <properties
+      key="Object ID"
+      value="bc57e0ef-a7a4-4707-bbb7-f05ea17dab20"/>
+</archimate:Constraint>

@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proceseigenaar"
+    id="id-43f74e144d8149d8c4c5cb4291795b13">
+  <properties
+      key="Object ID"
+      value="21f3369d-bdaf-44c1-bc7d-a0eb60c147bb"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

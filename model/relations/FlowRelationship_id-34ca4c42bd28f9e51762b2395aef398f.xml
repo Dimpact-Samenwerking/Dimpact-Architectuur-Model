@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="plaatsen afnemerindicaties"
+    id="id-34ca4c42bd28f9e51762b2395aef398f">
+  <properties
+      key="Object ID"
+      value="51d871a1-9bc8-45dd-8d19-220aa4561b4b"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1588197a02f651959156b97286d98150.xml#id-1588197a02f651959156b97286d98150"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8af2e29259c416fc9da5f0106f086db8.xml#id-8af2e29259c416fc9da5f0106f086db8"/>
+</archimate:FlowRelationship>

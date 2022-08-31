@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAG Extract"
+    id="id-f2e4cfc3110089e88a112c26ff1d65c9"
+    documentation="Kopie van de inhoud uit de LV BAG in XML formaat voor gebruik in eigen database.">
+  <properties
+      key="Object ID"
+      value="b574d461-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

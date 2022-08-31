@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOP10NL Topografie"
+    id="id-68714a2db24111aa122286a4546d5c54"
+    documentation="TOP10NL is een model voor het objectgerichte topografisch vectorbestand 1:10.000. Het model ondersteunt zaken als objectoriëntatie, unieke identificatie, was-wordt-detectie, naadloze database en temporele kenmerken. Ook meervoudige geometrie en de koppeling met andere nationale databases worden met TOP10NL mogelijk.">
+  <properties
+      key="Object ID"
+      value="be053661-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="maakt deel uit van"
+    id="id-4795be38ed687eafa781b6a7a6b3e880">
+  <properties
+      key="Object ID"
+      value="107c6e44-9d52-4046-829a-236e0ee51e5d"/>
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-b5f6a768cd6f693155102debfb97237b.xml#id-b5f6a768cd6f693155102debfb97237b"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d93efcc04006c49fa792c39548bd35c7.xml#id-d93efcc04006c49fa792c39548bd35c7"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leveren notificatie"
+    id="id-dae58e0ed5dbc89db811031b35d76746">
+  <properties
+      key="Object ID"
+      value="e6461199-e609-493d-8b78-c11e62a3480a"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78833775e9051aaadf6760343573cb09.xml#id-78833775e9051aaadf6760343573cb09"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6dbb637ad82c12a3c6634c6560bddb4.xml#id-c6dbb637ad82c12a3c6634c6560bddb4"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMWA Water"
+    id="id-7b06e860009655b94e456055dfde4ffd"
+    documentation="Het Informatiemodel Water (IMWA) maakt de uitwisseling van geografische objecten en informatie in de sector Water mogelijk. Het model is opgezet als sectormodel onder het Basismodel Geo-informatie (NEN3610).">
+  <properties
+      key="Object ID"
+      value="bb5ece81-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

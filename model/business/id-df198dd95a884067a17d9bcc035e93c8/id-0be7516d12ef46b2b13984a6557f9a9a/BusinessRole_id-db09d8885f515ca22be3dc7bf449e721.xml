@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsrol adviseur"
+    id="id-db09d8885f515ca22be3dc7bf449e721">
+  <properties
+      key="Object ID"
+      value="3c164a05-722e-43ba-ade9-f2f00b29b1b9"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma model"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSGB"
+    id="id-c16c7795bf414ddd3bf6ac785da879b1"
+    documentation="Het Referentiemodel Stelsel van Gemeentelijke Basisgegevens is de semantische standaard voor gemeentelijke basisgegevens. Het RSGB specificeert de basis- en kerngegevens waaraan gemeentebreed behoefte is.">
+  <properties
+      key="Object ID"
+      value="bc6234c1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

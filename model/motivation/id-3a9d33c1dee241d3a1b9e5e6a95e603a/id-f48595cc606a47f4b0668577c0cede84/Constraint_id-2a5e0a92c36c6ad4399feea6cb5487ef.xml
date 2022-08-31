@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiD SAML koppelvlak"
+    id="id-2a5e0a92c36c6ad4399feea6cb5487ef"
+    documentation="Voor het aansluiten op DigiD wordt gebruik gemaakt van de SAML standaard. Deze specificatie beschrijft hoe de SAML standaard door DigiD gebruikt wordt en welke eisen er aan deze koppeling gesteld worden.">
+  <properties
+      key="Object ID"
+      value="b75a5d41-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMGeo (BGT)"
+    id="id-21a3ede94bb4ae16c78e2a7f44f34432"
+    documentation="IMGeo is het informatiemodel voor grootschalige topografie.">
+  <properties
+      key="Object ID"
+      value="52fee2e1-9d4f-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

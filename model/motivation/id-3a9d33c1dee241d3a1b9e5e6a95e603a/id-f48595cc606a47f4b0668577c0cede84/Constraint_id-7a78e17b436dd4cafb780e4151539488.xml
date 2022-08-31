@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF ZTC"
+    id="id-7a78e17b436dd4cafb780e4151539488"
+    documentation="StUF Zaaktypen Catalogus (StUF ZTC) is een berichtenstandaard opgesteld op basis van het Standaard Uitwisseling Formaat (StUF) voor het uitwisselen van gegevens die zijn beschreven in het Informatiemodel voor de Zaaktype Catalogus 2 (ZTC2).">
+  <properties
+      key="Object ID"
+      value="e51528c0-3e5c-11e4-67ab-0050568a6153"/>
+</archimate:Constraint>

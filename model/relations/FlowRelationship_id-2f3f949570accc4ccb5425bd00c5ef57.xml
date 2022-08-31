@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2"
+    id="id-2f3f949570accc4ccb5425bd00c5ef57"
+    documentation="Tijdens opstellen van omgevingsplan worden begrippen in de DSO-LV Stelselcatalogus opgevraagd. &#xA;Let op: service is in onderzoek (juni 2020)">
+  <properties
+      key="Object ID"
+      value="35270491-6e09-410f-a3bd-9962874d778d"/>
+  <properties
+      key="Toelichting"
+      value="02 Tijdens opstellen van omgevingsplan worden begrippen in de DSO-LV Stelselcatalogus opgevraagd. Let op: service is in onderzoek (juni 2020)"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-6d0112d9feaf4c73574827ddfbe1cd04.xml#id-6d0112d9feaf4c73574827ddfbe1cd04"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60b3687544dc8c31cd8d3a65a51baa49.xml#id-60b3687544dc8c31cd8d3a65a51baa49"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-596c51e5970afaeb6b57ffafb7b6d303">
+  <properties
+      key="Object ID"
+      value="2191c9c6-da5a-41d2-b26b-902914669e8f"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-76e5e01e13b2bc4e41b223349533f55a.xml#id-76e5e01e13b2bc4e41b223349533f55a"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-2640783b8758eb0452259ecd801c4776.xml#id-2640783b8758eb0452259ecd801c4776"/>
+</archimate:AggregationRelationship>

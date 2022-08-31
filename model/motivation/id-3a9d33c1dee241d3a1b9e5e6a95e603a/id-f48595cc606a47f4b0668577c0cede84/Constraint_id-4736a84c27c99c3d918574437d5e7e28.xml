@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF tax"
+    id="id-4736a84c27c99c3d918574437d5e7e28"
+    documentation="Stuf-TAX is een uitwisselingsformaat voor de gegevenslevering tussen gemeente en dienstverlener.">
+  <properties
+      key="Object ID"
+      value="128d3955-8988-4150-b577-75d12ee2ea47"/>
+</archimate:Constraint>

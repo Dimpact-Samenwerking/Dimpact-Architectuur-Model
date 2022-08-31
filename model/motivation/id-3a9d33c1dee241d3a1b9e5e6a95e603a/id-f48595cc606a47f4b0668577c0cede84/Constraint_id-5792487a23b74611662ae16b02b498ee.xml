@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Norm beveiligingsassessment DigiD"
+    id="id-5792487a23b74611662ae16b02b498ee"
+    documentation="Voldoen aan de norm is verplicht voor elke DigiD aansluiting en wordt getoetst middels het ICT-Beveiligingsassessment DigiD.">
+  <properties
+      key="Object ID"
+      value="fcb874e0-b2b1-11e4-67ab-0050568a6153"/>
+</archimate:Constraint>

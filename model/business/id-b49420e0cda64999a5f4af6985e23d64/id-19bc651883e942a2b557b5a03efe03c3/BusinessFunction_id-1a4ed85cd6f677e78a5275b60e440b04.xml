@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoering Ruimtelijk Domein"
+    id="id-1a4ed85cd6f677e78a5275b60e440b04"
+    documentation="Het leveren van gemeentelijke producten en diensten die tot het ruimtelijk domein worden gerekend.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie domein"/>
+  <properties
+      key="Object ID"
+      value="f10ff76e-e4de-4f30-bb1f-81c7cfffb46a"/>
+</archimate:BusinessFunction>

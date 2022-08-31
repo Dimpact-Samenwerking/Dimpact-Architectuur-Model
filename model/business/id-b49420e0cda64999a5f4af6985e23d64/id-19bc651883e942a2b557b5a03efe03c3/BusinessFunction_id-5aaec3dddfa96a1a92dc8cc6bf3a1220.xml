@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invordering publieksdiensten"
+    id="id-5aaec3dddfa96a1a92dc8cc6bf3a1220"
+    documentation="Het innen van belasting of achteraf vorderen van te weinig betaalde belasting.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="da0f339c-bdef-4471-9b3b-fd9a0c662f61"/>
+</archimate:BusinessFunction>

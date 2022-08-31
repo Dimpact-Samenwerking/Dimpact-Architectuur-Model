@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoren en loggen van procesuitvoering"
+    id="id-dc638e094eede4bffb69ea169778da9f"
+    documentation="Functionaliteit voor het monitoren en loggen van procesuitvoering">
+  <properties
+      key="Object ID"
+      value="e812b882-70e9-11e5-1099-005056a83192"/>
+</archimate:ApplicationFunction>

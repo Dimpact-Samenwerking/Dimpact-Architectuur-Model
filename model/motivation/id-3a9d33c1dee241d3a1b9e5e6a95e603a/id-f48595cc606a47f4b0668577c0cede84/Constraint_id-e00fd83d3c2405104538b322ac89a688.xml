@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digilevering koppelvlak"
+    id="id-e00fd83d3c2405104538b322ac89a688"
+    documentation="Deze standaard bevat: a. Digikoppeling, en b. specificaties van de standaard waarmee welke basisgegevens geleverd worden (als eerste voor NHR). Zie verder de beschrijvingen bij deze standaarden.">
+  <properties
+      key="Object ID"
+      value="b8309901-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

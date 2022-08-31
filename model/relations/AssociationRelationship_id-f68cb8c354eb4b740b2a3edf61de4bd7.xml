@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="auditing van verwerking gegevens"
+    id="id-f68cb8c354eb4b740b2a3edf61de4bd7">
+  <properties
+      key="Object ID"
+      value="5d4b9d2d-f7e2-4ae0-854d-950890e8c639"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2527a206dc9aea9a6e3cdbd3a0ca8193.xml#id-2527a206dc9aea9a6e3cdbd3a0ca8193"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-c952e1e2405f4c0c1633f807b3fba48c.xml#id-c952e1e2405f4c0c1633f807b3fba48c"/>
+</archimate:AssociationRelationship>

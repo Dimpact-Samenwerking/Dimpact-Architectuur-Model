@@ -1,0 +1,14 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsrol Communicatieadviseur"
+    id="id-fb1c18535d6526f0917b2c1c5320d0b7">
+  <properties
+      key="Object ID"
+      value="439bb73a-5e82-4205-864e-8fe72c76aaab"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prefill eFormulieren services"
+    id="id-da000699c30d5928b192a216484691bf"
+    documentation="Standaard services voor ontsluiten van basisgegevens voor het voorinvullen van e-Formulieren en eventueel andere systemen, gebaseerd op StUF. Prefill eFormulieren services is een op StUF-BG gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van het voorinvullen van GEMMA e-formulieren. De standaard gaat er vanuit dat er een (internet) applicatie is welke invulbare formulieren aanbiedt aan een burger. Deze formulieren worden vooraf zover als mogelijk ingevuld met de gegevens die al bekend zijn in de eigen administratie.">
+  <properties
+      key="Object ID"
+      value="bc292361-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STTR - Toepasbare Regels"
+    id="id-cab34280d9d6a1d8a7f3b5182d3f8c49"
+    documentation="Koppelvlakstandaard voor Toepasbare Regels">
+  <properties
+      key="Object ID"
+      value="9e115d5b-906e-403c-b6ae-1052329b7546"/>
+</archimate:Constraint>

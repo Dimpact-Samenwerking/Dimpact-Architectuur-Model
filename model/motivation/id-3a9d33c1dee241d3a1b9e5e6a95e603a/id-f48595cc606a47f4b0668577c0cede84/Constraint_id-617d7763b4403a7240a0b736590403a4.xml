@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMOOV Openbare orde en veiligheid"
+    id="id-617d7763b4403a7240a0b736590403a4"
+    documentation="Voor een soepele uitwisseling van geo-informatie tussen brandweer, politie en hulpdiensten tijdens een incident heeft Geonovum samen met de sector het informatiemodel voor geo-objecten binnen de sector Openbare Orde en Veiligheid (IMOOV) ontwikkeld.">
+  <properties
+      key="Object ID"
+      value="bb317cf1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

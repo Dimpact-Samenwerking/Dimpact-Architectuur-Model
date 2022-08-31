@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digimelding"
+    id="id-9482cb63c8002716d600db54d23fd76a"
+    documentation="Digimelding koppelvlakspecificatie waarmee meldingen kunnen worden doorgegeven aan de bronhouders van basisregistraties.">
+  <properties
+      key="Object ID"
+      value="b84ad7c1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

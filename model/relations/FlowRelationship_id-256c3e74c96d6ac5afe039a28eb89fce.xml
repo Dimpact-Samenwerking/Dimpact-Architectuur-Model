@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pre-fill gegevens"
+    id="id-256c3e74c96d6ac5afe039a28eb89fce">
+  <properties
+      key="Object ID"
+      value="c3bb17f8-72a4-46c5-8a1b-24ba65874489"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78833775e9051aaadf6760343573cb09.xml#id-78833775e9051aaadf6760343573cb09"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40805a92105dd327c532ebf2eca147c5.xml#id-40805a92105dd327c532ebf2eca147c5"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RGBZ"
+    id="id-5093477a202a5aeb066d4c58ef449c5f"
+    documentation="Het RGBZ (Referentiemodel Gemeentelijke Basisgegevens Zaken) is een semantische standaard voor gemeentelijke zaakgegevens.">
+  <properties
+      key="Object ID"
+      value="bc302841-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

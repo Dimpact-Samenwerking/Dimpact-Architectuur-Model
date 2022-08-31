@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIG service"
+    id="id-1f070a464fe7ca3487c55dc02c6c1877"
+    documentation="AIG service - Authentieke Inkomen Gegevens. Je kunt hier mee terugmelden op de BRI.">
+  <properties
+      key="Object ID"
+      value="b4f6a3b1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

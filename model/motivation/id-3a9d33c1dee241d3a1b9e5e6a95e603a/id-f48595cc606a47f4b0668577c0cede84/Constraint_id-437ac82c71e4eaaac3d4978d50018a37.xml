@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentcreatieservices"
+    id="id-437ac82c71e4eaaac3d4978d50018a37"
+    documentation="Documentcreatieservices is een op StUF-ZKN en StUF-BG gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van het documentcreatieproces.">
+  <properties
+      key="Object ID"
+      value="b86c1b61-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inzage in lopende zaken en aanvragen"
+    id="id-7ace6bbd3496b0f1b46deddd2a5f58b0">
+  <properties
+      key="Object ID"
+      value="030e20d6-0f08-4441-bff3-71f6648c50ff"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06b9e54533499ccb38668a2ac0b6b92a.xml#id-06b9e54533499ccb38668a2ac0b6b92a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40805a92105dd327c532ebf2eca147c5.xml#id-40805a92105dd327c532ebf2eca147c5"/>
+</archimate:FlowRelationship>

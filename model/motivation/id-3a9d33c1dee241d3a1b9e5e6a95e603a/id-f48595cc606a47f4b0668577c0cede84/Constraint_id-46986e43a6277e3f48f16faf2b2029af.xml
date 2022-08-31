@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Popolo"
+    id="id-46986e43a6277e3f48f16faf2b2029af"
+    documentation="Popolo is een informatiemodel en gegevensuitwisselingsstandaard voor open raadsinformatie">
+  <properties
+      key="Object ID"
+      value="0a31322a-ab9a-41bc-a4d0-41750741e499"/>
+</archimate:Constraint>

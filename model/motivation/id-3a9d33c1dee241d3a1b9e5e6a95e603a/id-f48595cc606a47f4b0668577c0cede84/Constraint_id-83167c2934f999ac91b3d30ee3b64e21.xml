@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWSW.RibX"
+    id="id-83167c2934f999ac91b3d30ee3b64e21"
+    documentation="Bij het informatiemodel GWSW is het uitwisselformaat GWSW.RibX vastgesteld specifiek voor opdrachtverlening en rapportage bij de inspectie en reiniging van riolen, kolken en putten.">
+  <properties
+      key="Object ID"
+      value="25241ac1-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

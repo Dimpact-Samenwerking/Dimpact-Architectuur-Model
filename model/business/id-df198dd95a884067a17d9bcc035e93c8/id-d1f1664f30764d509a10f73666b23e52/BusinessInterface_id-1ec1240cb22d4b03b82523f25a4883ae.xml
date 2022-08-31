@@ -1,0 +1,11 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tablet"
+    id="id-1ec1240cb22d4b03b82523f25a4883ae">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessInterface>

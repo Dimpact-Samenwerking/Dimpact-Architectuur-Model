@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWSW"
+    id="id-3aafaafd1693c81ba5077817cee7eb55"
+    documentation="Het Gegevenswoordenboek Stedelijk Water (GWSW) is een open standaard voor gegevensbeheer en -uitwisseling bij de gemeentelijk watertaken">
+  <properties
+      key="Object ID"
+      value="2509dc01-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

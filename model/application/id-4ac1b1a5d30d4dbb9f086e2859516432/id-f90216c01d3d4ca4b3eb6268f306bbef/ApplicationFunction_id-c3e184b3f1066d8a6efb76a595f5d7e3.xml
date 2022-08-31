@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceren van regelgeving"
+    id="id-c3e184b3f1066d8a6efb76a595f5d7e3"
+    documentation="Functionaliteit voor het publiceren van lokale regelgeving">
+  <properties
+      key="Object ID"
+      value="49c22f47-1847-4f2f-ab58-753aa702c021"/>
+</archimate:ApplicationFunction>

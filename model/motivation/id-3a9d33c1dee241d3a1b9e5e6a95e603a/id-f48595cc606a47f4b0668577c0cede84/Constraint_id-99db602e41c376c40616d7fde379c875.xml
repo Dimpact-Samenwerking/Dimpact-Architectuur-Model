@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RIHa"
+    id="id-99db602e41c376c40616d7fde379c875"
+    documentation="Het Programma Informatie-uitwisseling Milieuhandhaving (PIM) heeft een aantal standaarden ontwikkeld die het uitwisselen van informatie tussen organisaties makkelijker maken. Afspraken over de structuur van uit te wisselen informatie zijn vastgelegd in het Referentie Informatiemodel Handhaving (RIHa). Een model dat toepasbaar is voor toezicht en handhaving in alle domeinen.">
+  <properties
+      key="Object ID"
+      value="c677ba20-f15b-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

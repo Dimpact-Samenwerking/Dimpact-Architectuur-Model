@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontvangen van berichten"
+    id="id-bb6b0be9d0fc4ca7d3ef5c3dd82126aa"
+    documentation="Functionaliteit voor het ontvangen van berichten">
+  <properties
+      key="Object ID"
+      value="5db0cf85-83a1-11e5-1099-005056a83192"/>
+</archimate:ApplicationFunction>

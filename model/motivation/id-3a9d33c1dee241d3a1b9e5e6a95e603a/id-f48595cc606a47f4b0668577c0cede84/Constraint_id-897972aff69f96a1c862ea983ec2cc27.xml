@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMKL Kabels en Leidingen"
+    id="id-897972aff69f96a1c862ea983ec2cc27"
+    documentation="Het Informatiemodel Kabels en Leidingen (IMKL) vormt een gemeenschappelijke begrippenkader voor gegevensuitwisseling ten behoeve van grondroerders werkzaamheden. Het IMKL is gekoppeld aan de Wet Informatie-uitwisseling Ondergrondse Netten (WION).">
+  <properties
+      key="Object ID"
+      value="bacd8b01-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

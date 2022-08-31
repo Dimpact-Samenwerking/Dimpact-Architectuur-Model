@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnOverheid WOZ-inzage koppelvlak"
+    id="id-366db2fb41413cfabf24255cb70d83e9"
+    documentation="MijnOverheid geeft burgers toegang tot berichten, persoonlijke gegevens en lopende zaken. Het koppelvlak WOZ-inzage is implementeerbaar voor afnemers (oa gemeenten, belastingsamenwerkingen of haar leverancier) om de WOZ gegevens beschikbaar te stellen aan burgers.">
+  <properties
+      key="Object ID"
+      value="25f0e0a1-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

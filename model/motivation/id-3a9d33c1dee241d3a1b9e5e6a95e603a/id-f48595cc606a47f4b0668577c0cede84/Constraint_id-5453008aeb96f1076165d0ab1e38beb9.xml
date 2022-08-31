@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MijnOverheid Lopende zaken koppelvlak"
+    id="id-5453008aeb96f1076165d0ab1e38beb9"
+    documentation="Koppelvlakspecificatie voor het aansluiting op MijnOverheid Lopende zaken.">
+  <properties
+      key="Object ID"
+      value="bbafada1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

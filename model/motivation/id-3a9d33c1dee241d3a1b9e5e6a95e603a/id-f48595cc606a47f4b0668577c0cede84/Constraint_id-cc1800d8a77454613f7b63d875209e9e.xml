@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMNAB Natuurbeheer"
+    id="id-cc1800d8a77454613f7b63d875209e9e"
+    documentation="Het Interprovinciaal Overleg (IPO) heeft het Informatiemodel Natuurbeheerplannen (IMNAB) gepubliceerd voor een goede landelijk uniforme uitwisseling van natuurgegevens.">
+  <properties
+      key="Object ID"
+      value="bb1e6a21-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

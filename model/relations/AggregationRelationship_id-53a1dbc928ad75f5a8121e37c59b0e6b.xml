@@ -1,0 +1,14 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-53a1dbc928ad75f5a8121e37c59b0e6b">
+  <properties
+      key="Object ID"
+      value="c20c8f2c-0a8c-4ac4-ba94-c3b93e266f69"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-4fc2f2bb1970f4ca1f11eb86da5228e3.xml#id-4fc2f2bb1970f4ca1f11eb86da5228e3"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-33e9a8eb0753e37158890711dcdcd6bb.xml#id-33e9a8eb0753e37158890711dcdcd6bb"/>
+</archimate:AggregationRelationship>

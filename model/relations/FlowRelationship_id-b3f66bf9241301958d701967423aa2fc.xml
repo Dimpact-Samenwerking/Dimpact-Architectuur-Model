@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afnemen kerngegevens"
+    id="id-b3f66bf9241301958d701967423aa2fc">
+  <properties
+      key="Object ID"
+      value="0dbf79bb-6f45-46d9-b374-e4c2861842b0"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9044b9db452a6d28e2374874f4c8e34.xml#id-f9044b9db452a6d28e2374874f4c8e34"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1588197a02f651959156b97286d98150.xml#id-1588197a02f651959156b97286d98150"/>
+</archimate:FlowRelationship>

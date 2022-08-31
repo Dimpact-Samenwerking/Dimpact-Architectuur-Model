@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PIVA-V koppelvlak (cf LO BES 1.0)"
+    id="id-b85bb2f2efab21ad3079dc9cbd8b7339">
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Standaardversie"/>
+  <properties
+      key="Versieaanduiding"
+      value="(cf LO BES 1.0)"/>
+  <properties
+      key="Status"
+      value="In gebruik"/>
+  <properties
+      key="Object ID"
+      value="c21a2261-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handhaver"
+    id="id-e2536f62c63616977effa6e6777fc468">
+  <properties
+      key="Object ID"
+      value="a3e1fbc4-7c9a-49d9-a08c-66cedea0541b"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

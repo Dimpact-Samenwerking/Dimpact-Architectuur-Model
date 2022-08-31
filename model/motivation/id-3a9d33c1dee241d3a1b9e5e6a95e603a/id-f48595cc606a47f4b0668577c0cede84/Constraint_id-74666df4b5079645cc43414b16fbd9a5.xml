@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SuwiML transactiestandaard"
+    id="id-74666df4b5079645cc43414b16fbd9a5"
+    documentation="De SuwiML Transactiestandaard beschrijft hoe de gestructureerde elektronische informatieuitwisseling in de Suwi keten is ingericht.">
+  <properties
+      key="Object ID"
+      value="bdeaf7a1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

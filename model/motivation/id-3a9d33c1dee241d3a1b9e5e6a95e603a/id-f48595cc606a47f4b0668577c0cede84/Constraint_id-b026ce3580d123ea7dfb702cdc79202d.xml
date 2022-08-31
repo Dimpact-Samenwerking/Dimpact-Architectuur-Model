@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigiD CGI koppelvlak"
+    id="id-b026ce3580d123ea7dfb702cdc79202d"
+    documentation="Specificatie van het DigiD CGI koppelvlak. Webdiensten kunnen met DigiD communiceren met behulp van de in dit document beschreven mechanismen en bijbehorende API.">
+  <properties
+      key="Object ID"
+      value="308f8f85-aea3-443b-a25d-238b760e8e05"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF protocolbindingen"
+    id="id-71736c236074ec13bfab7903a15f52ba"
+    documentation="StUF protocolbindingen beschrijft de afspraken voor het gebruik van StUF in combinatie met drie manieren van transport: via bestandsoverdracht, via transport op basis van WSDL 1.1 met SOAP 1.1 en http(s) als onderliggend transportmechanisme of via transport op basis van Digikoppeling (voorheen OSB).">
+  <properties
+      key="Object ID"
+      value="bd894fa1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

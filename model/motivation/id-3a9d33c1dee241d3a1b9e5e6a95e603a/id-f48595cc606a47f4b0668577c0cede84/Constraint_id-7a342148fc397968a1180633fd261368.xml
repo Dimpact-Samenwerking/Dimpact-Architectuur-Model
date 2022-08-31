@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenscatalogus Handelsregister"
+    id="id-7a342148fc397968a1180633fd261368"
+    documentation="In de catalogus Handelsregister, wordt de inhoud van de registratie beschreven zoals deze zal gelden bij de wettelijk geregelde invoering in 2010.">
+  <properties
+      key="Object ID"
+      value="b8e0d631-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

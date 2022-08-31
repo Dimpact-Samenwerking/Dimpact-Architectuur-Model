@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PDF/A"
+    id="id-3341ae631e5ff13d5bad80022731c6a4"
+    documentation="PDF/A is een door ISO gestandaardiseerd deel van de Portable Document Format (PDF), gericht op digitaal duurzame opslag van elektronische documenten. PDF/A verschilt ten opzichte van PDF door het weglaten van functionaliteit die niet geschikt is voor duurzame archivering, zoals het verwijzen naar lettertypes (in plaats hiervan wordt gebruikt gemaakt van 'font embedding').">
+  <properties
+      key="Object ID"
+      value="bbfbd1d1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

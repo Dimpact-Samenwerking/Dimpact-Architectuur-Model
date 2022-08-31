@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frontend CMS Beheerder"
+    id="id-d0d683e03aa84f4795d1ad8398d888b4">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+</archimate:ApplicationInterface>

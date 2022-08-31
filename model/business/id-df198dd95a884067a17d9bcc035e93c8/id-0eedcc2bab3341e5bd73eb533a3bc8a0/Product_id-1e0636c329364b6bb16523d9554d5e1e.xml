@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Online"
+    id="id-1e0636c329364b6bb16523d9554d5e1e">
+  <properties
+      key="Product type"
+      value="Oplossing"/>
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact"/>
+</archimate:Product>

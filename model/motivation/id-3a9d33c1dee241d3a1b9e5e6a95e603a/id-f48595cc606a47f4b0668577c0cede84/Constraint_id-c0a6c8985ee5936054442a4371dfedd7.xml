@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAG Grondslagen Catalogus"
+    id="id-c0a6c8985ee5936054442a4371dfedd7"
+    documentation="Deze catalogus beschrijft per object ('objecttype') de gegevens ('attribuutsoorten') die krachtens de artikelen 19 tot en met 25 van de Wet basisregistraties adressen en gebouwen in de adressenregistratie en gebouwenregistratie moeten worden opgenomen en definieert deze gegevens.">
+  <properties
+      key="Object ID"
+      value="b717d601-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

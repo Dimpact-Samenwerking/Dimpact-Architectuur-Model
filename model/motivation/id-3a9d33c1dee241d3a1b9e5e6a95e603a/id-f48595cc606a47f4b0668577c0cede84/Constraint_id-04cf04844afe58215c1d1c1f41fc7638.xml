@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="imZTC"
+    id="id-04cf04844afe58215c1d1c1f41fc7638"
+    documentation="Informatiemodel met de specificatie van de kenmerken van zaaktypen in een zaaktypecatalogus, de betekenis daarvan en hoe ze zich tot elkaar verhouden.">
+  <properties
+      key="Object ID"
+      value="be882201-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

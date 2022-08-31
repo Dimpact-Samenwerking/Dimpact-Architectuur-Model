@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mijn Omgeving"
+    id="id-c507aacc5dcf46f5a366115151322af5">
+  <properties
+      key="Object - Model Laag"
+      value="4 - Applicatie proces"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+  <properties
+      key="Component - Bron"
+      value="Gemeente Den-Haag"/>
+  <properties
+      key="Component - Type"/>
+  <properties
+      key="Component - Leverancier"/>
+  <properties
+      key="Status - PLC"
+      value="2. Operationeel - Doorontwikkelen"/>
+</archimate:ApplicationComponent>

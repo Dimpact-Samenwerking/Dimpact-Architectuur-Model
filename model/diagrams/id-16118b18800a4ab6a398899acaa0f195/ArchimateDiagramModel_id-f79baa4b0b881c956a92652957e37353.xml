@@ -1,0 +1,150 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MO01 Leidende architectuurprincipes"
+    id="id-f79baa4b0b881c956a92652957e37353">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d19765c943404346aec8a38e9244d53b"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="7"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-5afe14738e8c0eb0d0d84a4f4cd6df87.xml#id-5afe14738e8c0eb0d0d84a4f4cd6df87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a6b6d4670d80a61f9afdda727598057f"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="60"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-fdac72657b7485e57f004c3b06a2f4a9.xml#id-fdac72657b7485e57f004c3b06a2f4a9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2c53e7aa4c7447397f90be8892c5aafc"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="113"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-dc8cdd18770dae75178c30b49d7c34b1.xml#id-dc8cdd18770dae75178c30b49d7c34b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-89ab634092e2d5162c3e855ad8ff29c4"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="167"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-d20667e0f075f83dc7daff3245a67df6.xml#id-d20667e0f075f83dc7daff3245a67df6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f4fcf3153d33f18aa23ed9378cf333fc"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="220"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-980b52c66a2006c33c3c236eb87bf762.xml#id-980b52c66a2006c33c3c236eb87bf762"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-65e123a4de8ef2db9e8e820e72684586"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="273"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-dddc5bcf672b790d9cf76087e0f47a6d.xml#id-dddc5bcf672b790d9cf76087e0f47a6d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-44809c3cee3c82fa2becf127bf25aab0"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="327"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-e460770b605c9ebbfcfa937113adaad2.xml#id-e460770b605c9ebbfcfa937113adaad2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-afbefde24a2fa5dafa79d0bc7dafa1fc"
+      font="1|Segoe UI|9.0|0|COCOA|1|"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="7"
+        y="380"
+        width="387"
+        height="47"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-7231d99668c88bc1853633dc5bcf9b18.xml#id-7231d99668c88bc1853633dc5bcf9b18"/>
+  </children>
+  <properties
+      key="Architectuurlaag"
+      value="Motivatie"/>
+  <properties
+      key="Domein"
+      value="Niet domeingebonden"/>
+  <properties
+      key="Object ID"
+      value="031cf6e0-071c-4346-b324-43aea1c246f1"/>
+  <properties
+      key="Detailniveau"
+      value="Overzicht"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Scope"
+      value="Gemeente"/>
+  <properties
+      key="Viewtype"
+      value="Basis"/>
+  <properties
+      key="GEMMA thema"
+      value="Geen"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GML SF2"
+    id="id-efd681c63adc0c4ed306900c9a8662d7"
+    documentation="Koppelvlak voor het valideren van geometrie">
+  <properties
+      key="Object ID"
+      value="5d526b1b-8584-4ccb-908f-416b95ac4eba"/>
+</archimate:Constraint>

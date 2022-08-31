@@ -1,0 +1,28 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Next js"
+    id="id-62e231c319b44a4d801dd7fadd337a7d">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="4 - Applicatie proces"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+  <properties
+      key="Component - Bron"
+      value="Dimpact"/>
+  <properties
+      key="Component - Leverancier"/>
+  <properties
+      key="Component - Type"
+      value="1. Technische component"/>
+  <properties
+      key="Status - Funnel"
+      value="5. Gebruik &amp; beheer"/>
+  <properties
+      key="Status - PLC"
+      value="2. Operationeel - Doorontwikkelen"/>
+</archimate:ApplicationComponent>

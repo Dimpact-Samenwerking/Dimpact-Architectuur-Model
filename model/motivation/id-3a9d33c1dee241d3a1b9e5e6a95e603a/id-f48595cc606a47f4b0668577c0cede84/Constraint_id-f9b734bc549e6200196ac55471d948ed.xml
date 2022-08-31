@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMBOR"
+    id="id-f9b734bc549e6200196ac55471d948ed"
+    documentation="Het Informatiemodel Beheer Openbare Ruimte (IMBOR) dient als schakel tussen de BGT en IMGeo en producten voor het beheer van de openbare ruimte">
+  <properties
+      key="Object ID"
+      value="e5358653-dfab-439c-b179-2af701ea52ce"/>
+</archimate:Constraint>

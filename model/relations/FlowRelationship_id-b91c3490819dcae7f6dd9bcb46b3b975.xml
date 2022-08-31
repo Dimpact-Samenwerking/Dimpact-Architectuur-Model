@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert gegevens"
+    id="id-b91c3490819dcae7f6dd9bcb46b3b975">
+  <properties
+      key="Object ID"
+      value="7421545e-8128-4e29-8bcb-b52f43b01570"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7946a421f80fa1c432347246519a390a.xml#id-7946a421f80fa1c432347246519a390a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-39edb4415c22e344f355c7359d1fbd6e.xml#id-39edb4415c22e344f355c7359d1fbd6e"/>
+</archimate:FlowRelationship>

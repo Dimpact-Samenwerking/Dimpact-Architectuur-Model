@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monitoring naleving privacy weten regelgeving"
+    id="id-aa97f00f74d13b5bf8e1e97a04250e58">
+  <properties
+      key="Object ID"
+      value="377f4134-36ec-457f-bcf7-d3b5c1693834"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d93efcc04006c49fa792c39548bd35c7.xml#id-d93efcc04006c49fa792c39548bd35c7"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-c952e1e2405f4c0c1633f807b3fba48c.xml#id-c952e1e2405f4c0c1633f807b3fba48c"/>
+</archimate:AssociationRelationship>

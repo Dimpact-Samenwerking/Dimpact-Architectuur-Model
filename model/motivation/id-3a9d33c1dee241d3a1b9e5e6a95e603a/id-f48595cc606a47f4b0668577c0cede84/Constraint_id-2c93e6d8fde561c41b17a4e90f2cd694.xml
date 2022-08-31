@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMKICH Cultuurhistorie"
+    id="id-2c93e6d8fde561c41b17a4e90f2cd694"
+    documentation="Met IMKICH kan binnen het domein van de cultuurhistorie gestructureerde geo-informatie, maar ook informatie over ongestructureerde documentaire bronnen, eenvoudig worden vastgelegd, uitgewisseld en worden doorzocht.">
+  <properties
+      key="Object ID"
+      value="ba9def81-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aanleveren publieke content"
+    id="id-ce5a7a7eb1e45235f8ac15e4533ddcba">
+  <properties
+      key="Object ID"
+      value="e5ae1063-2d71-4269-9817-9b8e82da2477"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-76b038c0415e9c6125ce5adb167f0963.xml#id-76b038c0415e9c6125ce5adb167f0963"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8092f0079af7f202e220207d070d5633.xml#id-8092f0079af7f202e220207d070d5633"/>
+</archimate:FlowRelationship>

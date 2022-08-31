@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieproduct Ruimtelijke Plannen"
+    id="id-01b9bffb9c41c68c269d18d3f18464fe"
+    documentation="Koppelvlak voor het raadplegen van ruimtelijkeplannen.nl">
+  <properties
+      key="Object ID"
+      value="0066a94c-a220-4cf2-a136-18afa42c719c"/>
+</archimate:Constraint>

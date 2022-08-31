@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoordelijke organisatie 1"
+    id="id-6e6aebd2e9e7c171b2467f7a1a4c1029">
+  <properties
+      key="Object ID"
+      value="9b9ee42b-2232-4823-a2b2-1f2970a655ea"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

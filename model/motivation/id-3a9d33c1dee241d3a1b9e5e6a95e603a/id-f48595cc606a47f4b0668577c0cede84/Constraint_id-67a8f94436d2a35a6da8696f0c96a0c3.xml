@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STAM - Aanvragen en meldingen"
+    id="id-67a8f94436d2a35a6da8696f0c96a0c3"
+    documentation="Koppelvlakstandaard voor Aanvragen en Meldingen">
+  <properties
+      key="Object ID"
+      value="bec0afa0-f9c4-4f1f-9c56-684c57d00222"/>
+</archimate:Constraint>

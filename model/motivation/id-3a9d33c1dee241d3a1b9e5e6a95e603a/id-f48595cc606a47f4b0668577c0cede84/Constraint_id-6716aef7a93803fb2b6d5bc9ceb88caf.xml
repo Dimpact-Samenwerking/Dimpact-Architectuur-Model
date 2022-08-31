@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF onderlaag"
+    id="id-6716aef7a93803fb2b6d5bc9ceb88caf"
+    documentation="StUF onderlaag is een standaard waarmee berichtstandaarden kunnen worden opgesteld. De StUF onderlaag zelf beschrijft de generieke toepassing van de berichten en zegt niets over de specifieke gegevens die met de standaard gecommuniceerd kunnen worden, het biedt dus slechts een framework.">
+  <properties
+      key="Object ID"
+      value="b81950bb-8107-4d05-a81b-129b1cf3eb70"/>
+</archimate:Constraint>

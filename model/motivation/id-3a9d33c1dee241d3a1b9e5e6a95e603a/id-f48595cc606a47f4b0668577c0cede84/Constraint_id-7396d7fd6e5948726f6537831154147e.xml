@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF Wkpb"
+    id="id-7396d7fd6e5948726f6537831154147e"
+    documentation="StUF WKPB is een op STUF gebaseerde berichtenstandaard voor het uitwisselen van gegevens door gemeenten en Kadaster met de Landelijke Voorziening  voor de Wet Kenbaarheid Publiekrechtelijke Beperkingen onroerende zaken.">
+  <properties
+      key="Object ID"
+      value="0607a550-adbf-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

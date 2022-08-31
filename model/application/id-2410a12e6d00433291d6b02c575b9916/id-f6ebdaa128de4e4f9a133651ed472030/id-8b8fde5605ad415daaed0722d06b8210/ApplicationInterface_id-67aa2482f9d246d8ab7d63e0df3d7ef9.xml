@@ -1,0 +1,11 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Website Gemeente"
+    id="id-67aa2482f9d246d8ab7d63e0df3d7ef9">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+</archimate:ApplicationInterface>

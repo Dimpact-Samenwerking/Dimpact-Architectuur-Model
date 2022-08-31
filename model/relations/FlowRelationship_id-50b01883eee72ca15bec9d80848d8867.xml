@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="9"
+    id="id-50b01883eee72ca15bec9d80848d8867"
+    documentation="Na de validaties wordt de wijziging van het omgevingsplan geregistreerd en bekendgemaakt op aangegeven datum. De wijziging in het plan wordt op datum van inwerkingtreding doorgevoerd (geconsolideerd in het centrale omgevingsplan bij DSO-LV). Beoogde wijziging is na bekendmaking van het besluit wel al zichtbaar maar nog niet geeffectueerd.">
+  <properties
+      key="Object ID"
+      value="8b9b2a49-7a20-4a4a-8a0e-23fe9b9a745a"/>
+  <properties
+      key="Toelichting"
+      value="09 Na de validaties wordt de wijziging van het omgevingsplan geregistreerd en bekendgemaakt op aangegeven datum. De wijziging in het plan wordt op datum van inwerkingtreding doorgevoerd (geconsolideerd in het centrale omgevingsplan bij DSO-LV). Beoogde wijziging is na bekendmaking van het besluit wel al zichtbaar maar nog niet geeffectueerd."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60b3687544dc8c31cd8d3a65a51baa49.xml#id-60b3687544dc8c31cd8d3a65a51baa49"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-c4957b7bb18baf43002316414966ce4a.xml#id-c4957b7bb18baf43002316414966ce4a"/>
+</archimate:FlowRelationship>

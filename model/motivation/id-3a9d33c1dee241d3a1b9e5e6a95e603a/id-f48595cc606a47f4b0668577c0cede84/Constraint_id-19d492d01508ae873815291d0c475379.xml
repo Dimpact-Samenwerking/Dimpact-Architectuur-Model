@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF RIHa"
+    id="id-19d492d01508ae873815291d0c475379"
+    documentation="StUF RIHa is een op basis van StUF opgestelde berichtenstandaard voor het uitwisselen van gegevens die zijn beschreven in Referentie Informatiemodel Handhaving (RIHa).  Het  RIHa beschrijft de gegevens  in de berichtuitwisseling tussen toezichthoudende en handhavende organisaties (straf- en bestuursrecht, alle bestuurslagen). RIHa en StUF RIHa zijn ontwikkeld door Programma Informatieuitwisseling Milieuhandhaving (PIM).">
+  <properties
+      key="Object ID"
+      value="bd953681-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elastic Search: Zoeken"
+    id="id-44f81a27e1854d93b736fd327f1d651e">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Component - Bron"
+      value="Dimpact"/>
+  <properties
+      key="Component - Technologie"
+      value="Elastic Search"/>
+  <properties
+      key="Component - Type"
+      value="1. Technische component"/>
+  <properties
+      key="Status - Funnel"
+      value="5. Gebruik &amp; beheer"/>
+  <properties
+      key="Status - PLC"
+      value="2. Operationeel - Doorontwikkelen"/>
+</archimate:ApplicationComponent>

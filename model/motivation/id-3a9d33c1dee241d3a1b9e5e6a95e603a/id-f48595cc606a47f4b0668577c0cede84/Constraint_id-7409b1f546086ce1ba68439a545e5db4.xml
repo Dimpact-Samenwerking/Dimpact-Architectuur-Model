@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMSW (Stedelijk Water)"
+    id="id-7409b1f546086ce1ba68439a545e5db4"
+    documentation="Het Informatiemodel Stedelijk Water bevat de deelverzameling Geo-gegevens van het Gegevenswoordenboek Stedelijk Water (GWSW), conform NEN 3610">
+  <properties
+      key="Object ID"
+      value="254a4061-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheerder"
+    id="id-38be63643d0d03e5c51bb7115679477a">
+  <properties
+      key="Object ID"
+      value="a96ec982-643b-4c36-aa13-f36a51b85694"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

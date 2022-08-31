@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding gerede twijfel"
+    id="id-39e81c72ca30e60f78c5547e51260623">
+  <properties
+      key="Object ID"
+      value="4064ea4c-ec3e-411d-b0e7-43bb32e0cf10"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-67a76aa1861f9fc08537bf8f574aeb39.xml#id-67a76aa1861f9fc08537bf8f574aeb39"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8af2e29259c416fc9da5f0106f086db8.xml#id-8af2e29259c416fc9da5f0106f086db8"/>
+</archimate:FlowRelationship>

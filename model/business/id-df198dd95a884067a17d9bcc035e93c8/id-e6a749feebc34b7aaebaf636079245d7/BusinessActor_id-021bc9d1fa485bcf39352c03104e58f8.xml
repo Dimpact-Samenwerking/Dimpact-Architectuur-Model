@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portefeuillehouder gegevensmanagement"
+    id="id-021bc9d1fa485bcf39352c03104e58f8">
+  <properties
+      key="Object ID"
+      value="689766bf-2846-46bb-8c59-23084fe4166b"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessActor>

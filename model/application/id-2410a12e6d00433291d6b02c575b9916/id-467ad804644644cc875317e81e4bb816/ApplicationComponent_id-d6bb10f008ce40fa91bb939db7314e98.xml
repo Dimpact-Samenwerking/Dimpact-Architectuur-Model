@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiveren"
+    id="id-d6bb10f008ce40fa91bb939db7314e98"
+    documentation="Zie ook GEMMA archivering applicatie componenten">
+  <properties
+      key="Object - Model Laag"
+      value="4 - Applicatie proces"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+  <properties
+      key="Component - Bron"
+      value="n.t.b."/>
+  <properties
+      key="Status - PLC"
+      value="1. Onderzoek"/>
+</archimate:ApplicationComponent>

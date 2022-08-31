@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belastingbetaler"
+    id="id-4ca700b3e632b418ccc946f596bf0fa9">
+  <properties
+      key="Object ID"
+      value="c1e2dd43-cada-4cc0-a6a0-c260ee3f2153"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

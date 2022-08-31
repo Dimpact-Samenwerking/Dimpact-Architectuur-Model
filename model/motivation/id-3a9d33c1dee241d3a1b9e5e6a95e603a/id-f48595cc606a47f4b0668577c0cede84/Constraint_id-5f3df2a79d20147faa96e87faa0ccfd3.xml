@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STOSAG"
+    id="id-5f3df2a79d20147faa96e87faa0ccfd3"
+    documentation="De STOSAG standaarden zorgen ervoor dat u het afvalinzamel-proces op verschillende plekken kan ontkoppelen, en daardoor flexibeler wordt">
+  <properties
+      key="Object ID"
+      value="49e1a894-2036-422b-8cd4-d13572aee61b"/>
+</archimate:Constraint>

@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11"
+    id="id-179affdc2595483c3e712b87b486df47"
+    documentation="De toepasbare regels worden aangeleverd en getoond in het loket op het moment dat de juridische regels in werking treden.">
+  <properties
+      key="Object ID"
+      value="28261990-16f6-4025-8e61-1dd375faedd2"/>
+  <properties
+      key="Toelichting"
+      value="11 De toepasbare regels worden aangeleverd en getoond in het loket op het moment dat de juridische regels in werking treden."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9eace434507260209f7ebb23c1807e0a.xml#id-9eace434507260209f7ebb23c1807e0a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-fa3677e44c2d285673b747d318ce6d3a.xml#id-fa3677e44c2d285673b747d318ce6d3a"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren van waterinstallaties"
+    id="id-a7b427731d44d9ff2923a4115278a46f"
+    documentation="Functionaliteit voor het beheren van waterinstallaties.">
+  <properties
+      key="GEMMA type"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="895a8691-83c7-11e5-1099-005056a83192"/>
+</archimate:ApplicationFunction>

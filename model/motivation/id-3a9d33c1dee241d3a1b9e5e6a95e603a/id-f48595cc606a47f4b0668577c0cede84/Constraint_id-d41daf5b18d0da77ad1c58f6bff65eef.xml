@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemodel berichtenverkeer Digitale Bereikbaarheidskaart"
+    id="id-d41daf5b18d0da77ad1c58f6bff65eef"
+    documentation="De Data Product Specificatie voor berichtenverkeer voor de voorziening Digitale Bereikbaarheidskaart.">
+  <properties
+      key="Object ID"
+      value="25cf75f1-14fe-11e5-1099-005056a83192"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toezicht"
+    id="id-5b83b7c5d4aabac6f2fbb0a12cf5fa40"
+    documentation="Het uitvoeren van toezicht.">
+  <properties
+      key="Object ID"
+      value="aac7ff27-3c79-4234-bf48-1cc00e450553"/>
+</archimate:BusinessFunction>

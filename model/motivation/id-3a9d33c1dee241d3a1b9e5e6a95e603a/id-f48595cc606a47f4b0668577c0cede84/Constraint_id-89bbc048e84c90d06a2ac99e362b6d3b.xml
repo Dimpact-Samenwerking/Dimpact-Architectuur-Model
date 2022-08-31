@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN 3610"
+    id="id-89bbc048e84c90d06a2ac99e362b6d3b"
+    documentation="Basismodel Geo-informatie NEN 3610">
+  <properties
+      key="Object ID"
+      value="bbc04f71-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RO Standaarden"
+    id="id-e271c2106d185da33cc6a115ded6135f"
+    documentation="Het planproces in de ruimtelijke ordening is volledig digitaal. Om uitwisseling van bestanden mogelijk te maken, zijn afspraken gemaakt: RO Standaarden. Iedereen die ruimtelijke plannen maakt, is verplicht deze standaarden toe te passen.">
+  <properties
+      key="Object ID"
+      value="c89392bf-cbfd-40f9-ad34-a80cc4ea2b08"/>
+</archimate:Constraint>

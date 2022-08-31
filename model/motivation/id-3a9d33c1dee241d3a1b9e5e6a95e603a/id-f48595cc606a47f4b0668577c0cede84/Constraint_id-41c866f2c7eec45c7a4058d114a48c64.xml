@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF EF"
+    id="id-41c866f2c7eec45c7a4058d114a48c64"
+    documentation="StUF eFormulieren (StUF-EF) is een op StUF gebaseerde berichtenstandaard voor de uitwisseling van de gegevens welke met GEMMA e-formulieren verstuurd kunnen worden.  De standaard gaat er vanuit dat er een (internet) applicatie is welke invulbare formulieren aanbiedt aan een burger. De burger kan dit formulier invullen, de ingevulde gegevens worden vervolgens via StUF-berichten gecommuniceerd met achterliggende applicaties. Deze StUF-berichten moeten voldoen aan de standaard.">
+  <properties
+      key="Object ID"
+      value="bd066401-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

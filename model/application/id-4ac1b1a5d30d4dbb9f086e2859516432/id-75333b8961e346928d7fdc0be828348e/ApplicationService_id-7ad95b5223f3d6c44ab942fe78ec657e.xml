@@ -1,0 +1,11 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceren overheids producten en diensten"
+    id="id-7ad95b5223f3d6c44ab942fe78ec657e">
+  <properties
+      key="GEMMA type"
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Object ID"
+      value="acf3ba96-3db4-47ab-8d3f-6084bf20d270"/>
+</archimate:ApplicationService>

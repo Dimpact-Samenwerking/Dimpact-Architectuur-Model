@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SETU"
+    id="id-88be4e3c5a5622cd951d7b1a291dfe95"
+    documentation="Standaard voor het elektronisch berichtenverkeer in de branche van flexibele arbeid (HR-XML).">
+  <properties
+      key="Object ID"
+      value="bc837861-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

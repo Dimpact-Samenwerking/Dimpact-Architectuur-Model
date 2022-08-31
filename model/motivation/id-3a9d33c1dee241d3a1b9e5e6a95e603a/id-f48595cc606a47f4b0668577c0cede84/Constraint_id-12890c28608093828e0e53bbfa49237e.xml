@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRK Levering"
+    id="id-12890c28608093828e0e53bbfa49237e"
+    documentation="BRK Levering is de vervanging van de huidige Massale Output (MO).">
+  <properties
+      key="Object ID"
+      value="b67135c1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

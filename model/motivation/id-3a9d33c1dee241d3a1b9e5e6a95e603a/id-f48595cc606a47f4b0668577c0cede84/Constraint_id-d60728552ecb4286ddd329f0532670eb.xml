@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSGB bevragingen"
+    id="id-d60728552ecb4286ddd329f0532670eb"
+    documentation="RSGB bevragingen is een op StUF gebaseerde berichtenstandaard voor het opvragen van gegevens zoals beschreven in het RSGB. De standaard bevat scherpe berichtspecificaties voor de meest gebruikte bevragingen in het gemeentelijk domein.">
+  <properties
+      key="Object ID"
+      value="1aaf09e7-629b-11e5-1099-005056a83192"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF BAG"
+    id="id-70ac5c9683c7fdb34aa111caacb6c7cf"
+    documentation="StUF BAG is een op StUF-BG gebaseerde berichtenstandaard voor het doorgeven van wijzigingen in de Basisregistratie Adressen en Gebouwen (BAG) aan afnemende applicaties waaronder de Waardering Onroerende Zaken (WOZ).">
+  <properties
+      key="Object ID"
+      value="bce52061-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STOP - Officiele Publicaties"
+    id="id-7b72151bd448b9adcc942ae44fe97d9e"
+    documentation="Standaard voor Officële Publicaties">
+  <properties
+      key="Object ID"
+      value="65b56022-b371-4d6f-a972-1cbd0ed3370e"/>
+</archimate:Constraint>

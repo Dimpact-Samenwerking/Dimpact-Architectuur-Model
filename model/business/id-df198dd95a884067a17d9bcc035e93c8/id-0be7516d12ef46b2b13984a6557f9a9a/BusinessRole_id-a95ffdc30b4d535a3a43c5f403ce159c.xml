@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijkbewoner"
+    id="id-a95ffdc30b4d535a3a43c5f403ce159c">
+  <properties
+      key="Object ID"
+      value="ea452bd1-42ce-4374-a7c4-5956b3040ef6"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

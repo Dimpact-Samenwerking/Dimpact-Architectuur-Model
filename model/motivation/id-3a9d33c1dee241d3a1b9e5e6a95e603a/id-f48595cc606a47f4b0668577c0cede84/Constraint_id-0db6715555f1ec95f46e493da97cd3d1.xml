@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF WOZ LV koppelvlak"
+    id="id-0db6715555f1ec95f46e493da97cd3d1"
+    documentation="StUF WOZ LV koppelvlak is een op basis van StUF WOZ sectormodel opgestelde standaard voor de specifieke berichtenuitwisseling met de landelijke voorziening WOZ.">
+  <properties
+      key="Object ID"
+      value="1ff8b352-f303-4fa8-8b67-f7a86e29f199"/>
+</archimate:Constraint>

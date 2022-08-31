@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIG levering"
+    id="id-6cb76c326a76e6801011cc521dbea414"
+    documentation="AIG levering - Authentieke Inkomen Gegevens. Je kunt hiermee het verzamelinkomen of belastbare jaarloon opvragen van personen (gebruiker: CAK).">
+  <properties
+      key="Object ID"
+      value="b4d56011-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

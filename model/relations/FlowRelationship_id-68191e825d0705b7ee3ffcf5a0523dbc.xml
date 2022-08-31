@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levering kennisgevingen van mutatie van gegevens"
+    id="id-68191e825d0705b7ee3ffcf5a0523dbc">
+  <properties
+      key="Object ID"
+      value="3c8f8486-aa60-4e8a-aa48-41f1aa44ad92"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8af2e29259c416fc9da5f0106f086db8.xml#id-8af2e29259c416fc9da5f0106f086db8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e386ff94e7b499fbd6f675ac9eb1572e.xml#id-e386ff94e7b499fbd6f675ac9eb1572e"/>
+</archimate:FlowRelationship>

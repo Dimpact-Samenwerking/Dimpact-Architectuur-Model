@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemer"
+    id="id-622ed1ed12480680decb9be7db30d8af">
+  <properties
+      key="Object ID"
+      value="dcf821fe-e6c2-46da-b874-50c39d66ebd4"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessActor>

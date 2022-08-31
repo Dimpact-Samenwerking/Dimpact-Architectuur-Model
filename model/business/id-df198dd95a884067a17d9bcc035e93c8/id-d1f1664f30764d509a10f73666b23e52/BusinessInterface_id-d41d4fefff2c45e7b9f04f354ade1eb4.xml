@@ -1,0 +1,11 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computer / Laptop"
+    id="id-d41d4fefff2c45e7b9f04f354ade1eb4">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="2. Klantreis"/>
+</archimate:BusinessInterface>

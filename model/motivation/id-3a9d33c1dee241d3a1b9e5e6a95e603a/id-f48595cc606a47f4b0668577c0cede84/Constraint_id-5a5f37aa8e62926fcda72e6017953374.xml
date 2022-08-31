@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF Jeugdzorg (CORV)"
+    id="id-5a5f37aa8e62926fcda72e6017953374"
+    documentation="De standaard specificeert de uitwisseling van gegevens in de justitiële jeugdzorgketen van gemeenten en Veilig Thuis-organisaties via de voorziening CORV met andere (justitiële) partijen in de Jeugdzorg.">
+  <properties
+      key="Object ID"
+      value="8c70ef60-cb84-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

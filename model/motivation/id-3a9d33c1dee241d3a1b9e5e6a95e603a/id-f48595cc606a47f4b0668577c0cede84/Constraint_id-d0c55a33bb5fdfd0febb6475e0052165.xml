@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF HR"
+    id="id-d0c55a33bb5fdfd0febb6475e0052165"
+    documentation="StUF-HR  is een op STUF gebaseerde berichtenstandaard voor het uitwisselen van gegevens gebaseerd op het gegevenswoordenboek van het Handelsregister voor het leveren en opvragen van gegevens uit het HandelsRegister (NHR).">
+  <properties
+      key="Object ID"
+      value="bd2313c1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

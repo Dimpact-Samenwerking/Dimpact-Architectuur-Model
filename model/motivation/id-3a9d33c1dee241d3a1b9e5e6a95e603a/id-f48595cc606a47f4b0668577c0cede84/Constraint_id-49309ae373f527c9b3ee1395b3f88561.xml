@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OWMS"
+    id="id-49309ae373f527c9b3ee1395b3f88561"
+    documentation="De Overheid.nl Web Metadata Standaard (OWMS) is de metadatastandaard voor informatie van de Nederlandse overheid op internet. De standaard is gebaseerd op de internationale metadata-standaard van het Dublin Core Metadata Initiative (DCMI). OWMS bestaat uit afspraken over semantiek en syntax van: &#xA;* eigenschappen die overheidsinformatie beschrijven;&#xA;* lijsten van waarden die deze eigenschappen kunnen hebben;&#xA;* syntax van waarden die deze eigenschappen kunnen hebben.">
+  <properties
+      key="Object ID"
+      value="bbe40411-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

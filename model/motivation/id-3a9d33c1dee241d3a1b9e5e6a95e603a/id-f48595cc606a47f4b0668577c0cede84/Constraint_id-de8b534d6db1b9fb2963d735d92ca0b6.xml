@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StUF LVO"
+    id="id-de8b534d6db1b9fb2963d735d92ca0b6"
+    documentation="StUF-LVO is een op STUF gebaseerde berichtenstandaard voor het uitwisselen van gegevens met de Landelijke Voorziening Omgevingsloket.">
+  <properties
+      key="Object ID"
+      value="bd491251-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

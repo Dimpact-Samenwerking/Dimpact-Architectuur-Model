@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="id-4e921e02c486d078c8457821759f348c">
+  <properties
+      key="Object ID"
+      value="beae308a-cd14-42e2-8124-100cb7ec2ebd"/>
+  <properties
+      key="Object - Herkomst"
+      value="Gemma"/>
+</archimate:BusinessRole>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producten- en dienstenrealisatie sociaal domein"
+    id="id-4c08a11f7e8e779f43dc865e69b0cc10"
+    documentation="Het uitvoeren van activiteiten om producten en diensten te leveren binnen het Sociaal Domein.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="bf097fc0-dd3e-403a-945d-efe1994f35d4"/>
+</archimate:BusinessFunction>

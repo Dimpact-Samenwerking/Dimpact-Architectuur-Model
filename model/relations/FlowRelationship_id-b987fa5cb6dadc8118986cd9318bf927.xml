@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omgevingsbesluit"
+    id="id-b987fa5cb6dadc8118986cd9318bf927"
+    documentation="ter onderzoek: hoe gaan Omgevingsplancomponent en Toepasbareregelscomponent samenwerken?">
+  <properties
+      key="Object ID"
+      value="03a1d8fc-c6c9-4d7a-a14e-3bbb41bf6f95"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60b3687544dc8c31cd8d3a65a51baa49.xml#id-60b3687544dc8c31cd8d3a65a51baa49"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fc84764cbb508bf9b08ff2495bdb7279.xml#id-fc84764cbb508bf9b08ff2495bdb7279"/>
+</archimate:FlowRelationship>

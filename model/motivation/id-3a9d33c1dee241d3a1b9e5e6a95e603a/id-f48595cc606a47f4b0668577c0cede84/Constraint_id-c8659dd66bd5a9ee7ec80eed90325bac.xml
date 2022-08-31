@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAG Compact"
+    id="id-c8659dd66bd5a9ee7ec80eed90325bac"
+    documentation="BAG Compact bevat de adressen en adresgerelateerde elementen uit de LV BAG:  &#xA;* bevat de adressen van heel Nederland; &#xA;* op basis van een vaste peildatum; &#xA;* beschikbaar als eenmalige levering of abonnement.">
+  <properties
+      key="Object ID"
+      value="b5407df1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

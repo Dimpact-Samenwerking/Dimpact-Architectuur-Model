@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IM Metingen"
+    id="id-18624437a187b55b29784dc5a18c69ff"
+    documentation="IM Metingen is op initiatief van SIKB, IHW, TNO en Alterra ontwikkeld voor het gezamenlijke domein van 'metingen en waarnemingen'. IM Metingen is gebaseerd op de OGC-standaard voor observations &amp; measurements. IM Metingen is volledig opgenomen in SIKB0101 versie 11.">
+  <properties
+      key="Object ID"
+      value="b9b4a0f1-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>

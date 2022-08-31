@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Routeren en transformeren van berichten"
+    id="id-d9cceb55a9886f7f8fe077c79ce384f9"
+    documentation="Functionaliteit voor het uitwisselen, transformeren en routeren van berichten">
+  <properties
+      key="Object ID"
+      value="5db0cf80-83a1-11e5-1099-005056a83192"/>
+</archimate:ApplicationFunction>

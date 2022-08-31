@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drupal CMS"
+    id="id-fef44f7ad50342aa9772cab938efd9da">
+  <properties
+      key="Object - Herkomst"
+      value="Dimpact model"/>
+  <properties
+      key="Object - Model Laag"
+      value="4 - Applicatie proces"/>
+  <properties
+      key="Object - Model Laag"
+      value="5 - Applicatie Interactie"/>
+  <properties
+      key="Component - Bron"/>
+  <properties
+      key="Component - Leverancier"/>
+  <properties
+      key="Component - Type"/>
+  <properties
+      key="Component - Technologie"
+      value="Drupal"/>
+  <properties
+      key="Status - Funnel"
+      value="5. Gebruik &amp; beheer"/>
+  <properties
+      key="Status - PLC"
+      value="2. Operationeel - Doorontwikkelen"/>
+</archimate:ApplicationComponent>

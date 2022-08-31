@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMWE Welstand"
+    id="id-33e155e763ee413b8bd99b551d571f96"
+    documentation="Middels het Informatiemodel Welstand (IMWE) kan data uit welstandsnota's gestructureerd worden opgeslagen. IMWE is ontwikkeld naar analogie van het Informatiemodel Ruimtelijke Ordening (IMRO). Ook is een relatie gelegd met Informatiemodel Kennisinfrastructuur Cultuurhistorie (IMKICH).">
+  <properties
+      key="Object ID"
+      value="bb6cff51-8db0-11e3-67ab-0050568a6153"/>
+</archimate:Constraint>
